@@ -167,7 +167,4 @@
     <!-- Enable the electron beam animation -->
     <bool name="config_animateScreenLights">false</bool>
 
-    <!-- Enable stylus gestures -->
-    <bool name="config_stylusGestures">true</bool>
-
 </resources>
